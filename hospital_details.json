@@ -1,0 +1,28 @@
+{
+  "hospitals": [
+    {
+      "name": "QueensLand Hospital",
+      "patient_count": 230,
+      "location": "QueensLand",
+      "id": 1708534127274
+    },
+    {
+      "name": "MaryLand International Hospital",
+      "patient_count": 1120,
+      "location": "MaryLand",
+      "id": 1708534150783
+    },
+    {
+      "name": "Royal Hospital",
+      "patient_count": 120,
+      "location": "New York",
+      "id": 1708535128225
+    },
+    {
+      "name": "AIIMS",
+      "patient_count": 220,
+      "location": "New Delhi",
+      "id": 1708567657598
+    }
+  ]
+}
